@@ -109,7 +109,7 @@ class Program
                 `/bottts [matn]` - Robot uslubida avatar
                 `/pixel-art [matn]` - Pixel art uslubida avatar
 
-                **Misol:** `/fun-emoji Alisher`
+                **Misol:** `/fun-emoji Mukhtor`
                 
                 **Eslatma:** Buyruqdan keyin o'z ismingiz yoki istalgan matnni yozing.
             """;
